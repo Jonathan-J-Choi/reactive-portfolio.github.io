@@ -1,0 +1,13 @@
+.jumbotron {
+    text-align: center;
+}
+.biopic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.ppic {
+    height: 20em;
+    width: 20em;
+}
